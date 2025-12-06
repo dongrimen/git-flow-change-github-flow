@@ -44,6 +44,8 @@
 
 ### Changed
 
+- develop ブランチをデフォルトに変更
+
 - -
 
 ### Fixed
